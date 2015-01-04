@@ -1,0 +1,13 @@
+PODS:
+  - CorePlot (1.5.1)
+  - JTCalendar (1.1.10)
+
+DEPENDENCIES:
+  - CorePlot
+  - JTCalendar
+
+SPEC CHECKSUMS:
+  CorePlot: b15cb1a9a687b9576545104248d6e22033e678bb
+  JTCalendar: 988b398fb2e49d782ff84997bfa90129953ba313
+
+COCOAPODS: 0.35.0
